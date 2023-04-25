@@ -79,7 +79,7 @@ A ONG busca oferecer oportunidades de trabalho e capacitações, bem como acompa
           <th><img src="https://avatars.githubusercontent.com/u/123839425?v=4" width=100 height=100 ></th>
           <th><img src="https://avatars.githubusercontent.com/u/93882803?v=4" width=100 height=100 ></th>
           <th><img src="https://avatars.githubusercontent.com/u/96356018?v=4" width=100 height=100 ></th>
-          <th><img src="https://avatars.githubusercontent.com/u/41052229?v=4" width=100 height=100 ></th>
+          <th><img src="https://ik.imagekit.io/ohu04lxwc/C%C3%B3pia_de_C%C3%B3pia_de_ConectaVaga__1_.png?updatedAt=1682435515581" width=100 height=100 ></th>
           <th><img src="https://avatars.githubusercontent.com/u/101155320?v=4" width=100 height=100 ></th>
         </tr>
         <tr>
