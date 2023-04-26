@@ -35,19 +35,19 @@ public class Postagem {
 	@UpdateTimestamp
 	private LocalDateTime data;
 
-	@Size(min = 5, max = 500, message = "Não permitido mais de 500 caracteres")
-    private String imagem;
+	@Size(max = 5000, message = "Não é permitido mais de 5000 caracteres")
+    	private String imagem;
 	
 	
 	@ManyToOne
 	@JsonIgnoreProperties("postagem")
-    private Tema tema;
+    	private Tema tema;
 	
 	@ManyToOne
 	@JsonIgnoreProperties("postagem")
-    private Usuario usuario;
+    	private Usuario usuario;
 
-    public String getImagem() {
+    	public String getImagem() {
 		return imagem;
 	}
 
